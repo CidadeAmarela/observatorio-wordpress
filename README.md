@@ -10,6 +10,7 @@ Selecionar coletivamente temas e *plugins* que satisfaçam os seguintes critéri
 * não fazer usuário de refém
 * cumprir com padrões e formatos abertos, e padrões básicos do Wordpress, sem uso "padrões" que caracterizem dependência para com um só fornecedor. 
 * visual e interface razoáveis.
+* ser traduzido ou permitir a tradução para o [pt-BR](https://www.wikidata.org/wiki/Q750553).
 * funcionalidade relevante e operando bem.
 * demonstrar (oferecer) um mínimo de suporte e diálogo para a comunidade de desenvolvedores e usuários.
 
