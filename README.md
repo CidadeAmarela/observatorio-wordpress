@@ -8,7 +8,7 @@ EM CONSTRUCAO: [contribuir aqui](https://docs.google.com/spreadsheets/d/1teHDO1B
 Selecionar coletivamente temas e *plugins* que satisfaçam os seguintes critérios básicos:
 
 * não fazer usuário de refém
-* cumprir com padrões e formatos abertos, e padrões básicos do Wordpress, sem uso "padrões" que caracterizem dependência para com um só fornecedor. 
+* cumprir com padrões e formatos [abertos](http://opendefinition.org/od/2.0/pt-br/), e padrões básicos do Wordpress, sem uso "padrões" que caracterizem dependência para com um só fornecedor. 
 * visual e interface razoáveis.
 * ser traduzido ou permitir a tradução para o [pt-BR](https://www.wikidata.org/wiki/Q750553).
 * funcionalidade relevante e operando bem.
