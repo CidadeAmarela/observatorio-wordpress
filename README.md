@@ -17,3 +17,14 @@ Selecionar coletivamente temas e *plugins* que satisfaçam os seguintes critéri
 Secundariamente, além da curadoria, podem ser estabelecidos requisitos e sugestões de *fork* para ser assumido pela comunidade CidadeAmarela.
 
 
+## Modo de operação 
+Processo curadoria com os seguintes passos:
+
+1. Submetendo sugestão para avaliação: [sugerir temas na issue#1](https://github.com/CidadeAmarela/observatorio-wordpress/issues/1) e [*plugins* na issue#2](https://github.com/CidadeAmarela/observatorio-wordpress/issues/2).
+
+2. Se aprovado, a situação do tema ou plugin é registrada na  [respectiva planilha](https://docs.google.com/spreadsheets/d/1teHDO1BcFgCM64JCdZRwzTPFhX2vwYf_6wk5HFRnYMU/) (ver registro permanente na [pasta de dados](data)) e um novo *ticket de issue* é criado para descrever e discutir.
+
+3. Se aprovado na discussão, o item recebe status de **aprovado pela curadoria**.
+
+Apenas itens aprovados (e posteriormente homologados pelo corpo técnico) são utilizados na *hospedagem multisite* da CidadeAmarela.
+
